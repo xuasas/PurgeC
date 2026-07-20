@@ -1,0 +1,27 @@
+# PyInstaller
+dist/
+build/
+*.spec.bak
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Logs
+*.log
+
+# AI assistant (local only)
+reasonix.toml
+
+# OS
+Thumbs.db
+Desktop.ini
